@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "341385021097",
+    "project_id": "my-project-for--6221",
+    "storage_bucket": "my-project-for--6221.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:341385021097:android:19d35231a320eef24e4bb8",
+        "android_client_info": {
+          "package_name": "com.example.imagelablekotlin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "341385021097-3alo458q6o2leuk33o0dpjqtho1okkjl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCugFm6mMT2NCQHudlbYcqwNQJ0tFtINOA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "341385021097-3alo458q6o2leuk33o0dpjqtho1okkjl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
